@@ -26,7 +26,7 @@ I created some colour pallettes last night from a Klimt painting that I love (se
 
 Colour palette planning in Figma
 
-![Colour pallettes from a Klimt portrait](Images/Figma_ColourPalettes.png)
+![Colour pallettes from a Klimt portrait](images/Day&#32;1/Figma_ColourPalettes.png)
 
 When I thought about it, it was the colours from a photo of a big city after rain at night, with neon lights and blurred streelights that I was trying to get. I remembered a wall decorated for a Wed Anderson movie where there was a night scene with lights where the city buildings were like paper cut outs. I loved it so much, so I tracked down a picture of that and found a couple others for inspiration. I added these into Trello so I could refer back to them. 
 
@@ -36,7 +36,7 @@ I needed more contrast and wanted brighter colours (like the aurora borealis or 
 
 Colour palette planning in Figma—Take 2!
 
-![Colour pallettes from aurora borealis](Images/Figma_ColourPalette_Take2.png)
+![Colour pallettes from aurora borealis](images/Day&#32;1/Figma_ColourPalette_Take2.png)
 
 
 *Trello*
@@ -45,15 +45,15 @@ I set up Trello with days organised as sprints with daily retrospectives up unti
 
 Screenshot 1: Day 1 trello set up
 
-![Screenshot of Trello on Day 1](Images/Trello_Day1_screenshot.png)
+![Screenshot of Trello on Day 1](images/Day&#32;1/Trello_Day1_screenshot.png)
 
 Screenshot 2: Day 1 task card—inspiration
 
-![Screenshot of Trello card for Day 1](Images/Trello_Day1_TaskCard_Inspo.png)
+![Screenshot of Trello card for Day 1](images/Day&#32;1/Trello_Day1_TaskCard_Inspo.png)
 
 Screenshot 3: Day 1 task list
 
-![Screenshot of Trello task list](Images/Trello_Day1_TaskList.png)
+![Screenshot of Trello task list](images/Day&#32;1/Trello_Day1_TaskList.png)
 
 
 **Portfolio requirements**
@@ -119,7 +119,7 @@ This website is a portfolio for my Coder Academy web development bootcamp assess
 Checklist at end of Day 1
 
 All tasks except copy were completed. I will complete those today or tomorrow. 
-![Screenshot of checklist at end of Day 1](Images/Checklist_EndDay1.png)
+![Screenshot of checklist at end of Day 1](images/Day&#32;1/Checklist_EndDay1.png)
 
 *Icons*
 
@@ -129,19 +129,25 @@ Screenshots of design
 
 Early designs that were scrapped
 
-![Screenshot of nav pane design](Images/Figma_EarlyDesign_Navpane.png)
+![Screenshot of nav pane design](images/Day&#32;1/Figma_EarlyDesign_Navpane.png)
 
 
-![Screenshot of layout designs](Images/Figma_EarlyDesign_scrapped.png)
+![Screenshot of layout designs](images/Day&#32;1/Figma_EarlyDesign_scrapped.png)
 
 Approved Home screen designs
 
-![Screenshot of Home screens design](Images/Figma_HomeScreen_Approved.png)
+![Screenshot of Home screens design](images/Day&#32;1/Figma_HomeScreen_Approved.png)
 
 
 Approved About screen designs
 
-![Screenshot of About screens design](Images/Figma_AboutScreen_approved.png)
+![Screenshot of About screens design](images/Day&#32;1/Figma_AboutScreen_approved.png)
 
+Updated Home screen designs (post-approval)
 
+![Screenshot of Home screens design 2](images/Day&#32;1/HomeScreen_Design2.png)
+
+Updated About screen designs (post-approval)
+
+![Screenshot of About screens design 2](images/Day&#32;1/AboutScreen_Design2.png)
 
