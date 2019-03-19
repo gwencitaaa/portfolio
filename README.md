@@ -98,9 +98,7 @@ My main drive is to leave the world a better place than when I came into it.
 
 > About this site
 
-This website started as a portfolio for my Coder Academy bootcamp assessment. We were required to create a portfolio to demonstrate our skills, experience and xxx
-
-
+This website is a portfolio for my Coder Academy web development bootcamp assessment. The brief was to design then deploy a well-designed and functional portfolio website.
 
 > History of internet (w/graphic)
 
