@@ -107,12 +107,25 @@ This website started as a portfolio for my Coder Academy bootcamp assessment. We
 
 > Work
 
-End of day update:
-Copy not finished bc Aaron recommended getting wireframes done earlier to get approval. 
+**End of day 1 update**
 
-Got approval for design after showing home screens and 'About' screens in Figma. 
+- Copy not finished bc Aaron recommended getting wireframes done earlier to get approval. 
+- Got approval for design after showing home screens and 'About' screens in Figma. 
+- I added in an image of the aurora borealis for visual interest after trying block colours, a triangle shape for text and a speech bubble, but finding all of these were too strong or busy to look good. 
+- For the layout, I brainstormed what pages I needed while looking at the rubric, and settled on 
+- - 'Contact' for links (Github / linkedin) and contact details
+- - 'About' for more info about me and info about the page
+- - 'Work' for examples of my work / experience / skills
+- - 'Home' for home page with tiny hello message and icons. 
 
-I added in an image of the aurora borealis for visual interest after trying block colours, a triangle shape for text and a speech bubble, but finding all of these were too strong or busy to look good. 
+Checklist at end of Day 1
+
+All tasks except copy were completed. I will complete those today or tomorrow. 
+![Screenshot of checklist at end of Day 1](Images/Checklist_EndDay1.png)
+
+*Icons*
+
+I created icons for each page (About, Home, Work, Contact) on the website by using the shapes in Figma. I made these simple, recognisable images, taking into account the principle of familiarity/recognisability in User-centred design.
 
 Screenshots of design 
 
@@ -132,9 +145,5 @@ Approved About screen designs
 
 ![Screenshot of About screens design](Images/Figma_AboutScreen_approved.png)
 
-Checklist at end of Day 1
 
-
-All tasks except copy were completed. I will complete those today or tomorrow. 
-![Screenshot of checklist at end of Day 1](Images/Checklist_EndDay1.png)
 
