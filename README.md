@@ -151,3 +151,42 @@ Updated About screen designs (post-approval)
 
 ![Screenshot of About screens design 2](images/Day&#32;1/AboutScreen_Design2.png)
 
+**Day 1 retro**
+
+I did a mini-retrospective on Day 1. I need to stick to my plan so I'm not stressing about time. I've been worrying that my brother is coming down as a surprise for three days and I won't have time, but I stepped out the project management stages and it will be okay if I trust the process. 
+
+Screenshot of retro
+
+![Screenshot of Trello card](images/Day&#32;2/images/Trello_Day1_Retro.png)
+
+**DAY 2 SPRINT**
+
+My goals today are 
+- to get most of my HTML structure completed 
+- find out how to link pages within a website
+- how to use svg files. 
+
+I converted the uncompleted tasks from Day 1 into their own cards and they're sitting in Day 2 as well now. 
+
+Screenshot of Trello board, Day 2
+
+![Screenshot of Trello board](images/Day&#32;2/images/Trello_Day2_start.png)
+
+
+Screenshot of Trello task list, Day 2
+
+![Screenshot of Trello task list](images/Day&#32;2/images/Trello_Day2_TaskList.png)
+
+
+
+*Code structure*
+
+This is the plan for my code structure. I checked with Harrison and he thought a div might be better for the icons in the middle of the right half of the page (I wasn't sure what would be best). So now I'm planning to try a flex box for the search icon positioning, and divs for the rest of the sections. 
+
+I tweaked the design last night and Harrison was happy for it to go ahead. 
+
+For the icons, I'll be exporting them as svgs and using them that way. 
+
+Screenshot of code structure planning
+
+![Screenshot of Figma layout](images/Day&#32;2/images/Figma_CodeStructure_Plan_Day2.png)
