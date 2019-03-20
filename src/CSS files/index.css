@@ -1,6 +1,6 @@
-@import "icons.css";
-@import "nav_bar.css";
-@import "avatar.css";
+@import "./icons.css";
+@import "./nav_bar.css";
+@import "./avatar.css";
 
 * {
   margin: 0px;
