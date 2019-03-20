@@ -251,7 +251,7 @@ Screenshot of code structure planning
 
 *Sitemap*
 
-I created a simple Sitemap using www.gloomaps.com.
+I created a simple Sitemap using www.gloomaps.com. I had to think about how the pages were related and I'm still not sure it's right. I'd like to learn more about site architecture and systems design in future. It's like a fun mix of visual representation and content structure, which reminds me of what matters when writing curriculum. 
 
 ![Sitemap screenshot](images/Day&#32;2/images/Sitemap.png)
 
@@ -267,4 +267,23 @@ Contact page wireframe
 
 ![Wireframe of Contact page view](images/Day&#32;2/images/Figma_ContactScreen_wireframe.png)
 
+*End of Day 2 update*
 
+I needed a lot of help to get the HTML structure in place in terms of files and what order to put code in (and whether flex or grid is better).
+
+However, the home page is on its way to being designed and is almost completely stucutured. 
+
+I am considering scrapping the search functionality from the MVP on advice from an instructor and considering how long it took me to do one page without search.
+
+*Retro*
+What I felt most strongly from my retro for Day 2 is that I need to stop feeling stupid when I ask for help. It isn't helping and I learn faster by watching someone else then copying. Although that doesn't seem to be how they want us to learn here, I'm kind of sick of beating myself up for it. 
+
+Trello card for retrospective, Day 2
+
+![Screenshot of Trello card](images/Day&#32;2/images/Trello_Retro_Day2.png)
+
+Overall, I'm on track except I was hoping to get more HTML code done by now. 
+
+Trello board at end of day 2
+
+![Screenshot of Trello card](images/Day&#32;2/images/Trello_Day2End.png)
