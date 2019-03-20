@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+}
+
+.page-left .text-content {
+  text-align: right; 
+  color: white;
+  /* background: black; */
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 60%;
+  
+}

@@ -1,6 +1,64 @@
 # portfolio
 Web portfolio for Coder Academy bootcamp assessment
 
+*Purpose*
+The purpose of this website is to function as an online portfolio, displaying both my personality and technical skills/experience. The audience is Coder Academy for assessment, but also the wider tech community and potential employers. 
+
+*Functionality*
+The website has four main pages:
+-Home
+-About
+-Contact
+-Work 
+
+Search function
+Search functionality is on all pages for all device types in the top right corner. This position is almost universally recognisable. There is a search bar with an icon and the word "Search", both for accessible design purposes and also best practice in terms of labelling icons with a word. Clicking into the search bar brings up the keyboard on both mobile/tablet.
+
+Use of icons
+
+Each page is represented by an icon. I designed these icons so the style was consistent with the rest of the site's look and feel. When hovered over, the icon's label pops up. When a page is navigated to, its icon sits in the middle of the page with its label visible. 
+
+The icons were as follows
+- Home page: house
+- Work page: suitcase
+- Contact page: envelope
+- About page: information symbol in circle
+
+Icon design in Figma
+
+![Screenshot of icon design](images/Day&#32;2/images/Figma_Icons.png)
+
+Bottom navigation on mobile/tablet
+
+On the mobile/tablet layout, a bottom navigation pane was chosen during the design process. This is to facilitate one-handed use, meeting the UX criteria of Reachability. It was also a design choice based on current research in UX, specifically on the 'Touch' principle. I read that one-handed use is more common than thought, and that good design should consider functions sitting on the bottom within the 'thumb zone' (left, combined and right). I considered search as being potentially a core function of the app and therefore included it in the bottom nav bar.   
+
+Bottom nav bar design in Figma
+
+![Screenshot of nav bar design](images/Day&#32;2/images/Figma_Navbar.png)
+
+Hamburger menu
+
+On a mobile view, a hamburger menu sits in place of the two extra pages. The decision to use a hamburger menu instead of two more icons was based on three main reasons. Firstly, I wanted to allow for 'fat fingers and bad eyesight'—in other words, to use the principles of human-centred design for an easy to navigate UI. I also intended for there to be ample space for contact patches, since they vary in size and shape. Finally, I wanted a clean UI, and when I trialled five icons along the bottom, they were too close in distance and the UI looked cluttered as a result. 
+
+Hamburger menu design 
+
+![Hamburger design plan](images/Day&#32;2/images/Figma_HamburgerMenu.png)
+
+
+Need to include: 
+Description of your portfolio website, including,
+Purpose
+Functionality / features
+Sitemap
+Screenshots
+Target audience
+Tech stack (e.g. html, css, deployment platform, etc)
+Design documentation including,
+Design process
+Wireframes
+Personal logo (optional)
+Usability considerations
+
 **DAY 1 SPRINT**
 
 My aim today is to
@@ -201,10 +259,6 @@ I created a simple Sitemap using www.gloomaps.com.
 
 I created wireframes for the hamburger menu (phone/tablet only) and other main screens.
 
-Hamburger menu design 
-
-![Hamburger design plan](images/Day&#32;2/images/Figma_HamburgerMenu.png)
-
 Work page wireframe
 
 ![Wireframe of Work page view](images/Day&#32;2/images/Figma_WorkScreen_wireframe.png)
@@ -212,4 +266,5 @@ Work page wireframe
 Contact page wireframe
 
 ![Wireframe of Contact page view](images/Day&#32;2/images/Figma_ContactScreen_wireframe.png)
+
 
