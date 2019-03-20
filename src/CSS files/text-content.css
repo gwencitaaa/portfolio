@@ -3,12 +3,12 @@
 }
 
 .page-left .text-content {
-  text-align: right; 
+  text-align: center; 
   color: white;
-  /* background: black; */
+  font-weight: bold;
+  font-size: 17px;
   justify-content: center;
   align-items: center;
-  width: 50%;
-  height: 60%;
-  
+  width: 35%;
+  height: 65%;
 }
