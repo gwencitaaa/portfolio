@@ -1,6 +1,10 @@
 @import "./icons.css";
 @import "./nav_bar.css";
 @import "./avatar.css";
+@import "./about.css";
+@import "./contact.css";
+@import "./work.css";
+@import "./text-content.css";
 
 * {
   margin: 0px;
@@ -9,3 +13,52 @@
 body {
   font-family: 'Oswald', sans-serif;
 }
+
+.container {
+  background-image: url(./images/bckrnd_michal-vrba-753800-unsplash.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  grid-template-rows: 100%;
+}
+
+.page-left {
+
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+  border: 1px solid black;
+  background: #010C42;
+  opacity: 0.8;
+  /* background: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%); */
+}
+
+.left-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+  align-items: center;
+}
+
+.icons  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: pink;
+}
+
+.page-right {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+  height: 100%;
+  background: #66DBA6;
+  opacity: 0.6;
+
+  /* background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+}
+
+
+
+
