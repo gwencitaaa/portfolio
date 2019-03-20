@@ -190,3 +190,26 @@ For the icons, I'll be exporting them as svgs and using them that way.
 Screenshot of code structure planning
 
 ![Screenshot of Figma layout](images/Day&#32;2/images/Figma_CodeStructure_Plan_Day2.png)
+
+*Sitemap*
+
+I created a simple Sitemap using www.gloomaps.com.
+
+![Sitemap screenshot](images/Day&#32;2/images/Sitemap.png)
+
+*Design of other screens*
+
+I created wireframes for the hamburger menu (phone/tablet only) and other main screens.
+
+Hamburger menu design 
+
+![Hamburger design plan](images/Day&#32;2/images/Figma_HamburgerMenu.png)
+
+Work page wireframe
+
+![Wireframe of Work page view](images/Day&#32;2/images/Figma_WorkScreen_wireframe.png)
+
+Contact page wireframe
+
+![Wireframe of Contact page view](images/Day&#32;2/images/Figma_ContactScreen_wireframe.png)
+
