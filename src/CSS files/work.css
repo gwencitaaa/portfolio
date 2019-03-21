@@ -1,0 +1,18 @@
+
+.center-icon p {
+  transform: rotate(-90deg);
+  font-size: 40px;
+  position: absolute;
+  bottom: 300;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.color-box {
+  color: white;
+  text-align: center;
+  height: 100px;
+  width: 333px;
+  background-color: rgb(31, 57, 189);
+}
