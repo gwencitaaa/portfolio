@@ -305,3 +305,36 @@ Task card at start of day
 I've removed the search functionality (as updated higher in this doc) and also the hamburger menu, since the icons will now fit. 
 
 I'm struggling to position the text with the center icon and also to position text. I've spent a long time looking this up and getting help and it's still not fixed. 
+
+*Update at end of Day 3*
+
+Text labels for icons are fixed. I needed to use transform and play a lot with the numbers. I'm getting used to using inspect but it's not easy to transfer across to code since it resizes the screen. 
+
+**Day 4 SPRINT**
+
+Something has gone super wrong with Git and it's not recognising local. Hopefully I don't lose all my stuff. I wasn't able to commit my changes and it keeps wanting to add all of my files. I tried to add local again since it wasn't showing, but it's still not working. 
+
+*Day 3 retro*
+
+I did a glad/sad/mad retro for Day 3, one of the ones from Atlassian's Team Playbook that I haven't tried. I'm pretty sick of almost crying constantly but still haven't figured out how not to. Maybe Day 4 is the day!
+
+Trello Day 3 retro
+
+![Screenshot of Trello card](images/Day&#32;4/images/Trello_Day3_Retro.png)
+
+*Day 4 tasks*
+
+I checked off everything but two things from yesterday's list. I still need to work out three elements:
+- the hover function for my icons
+- media queries or code for resizing screens for different devices
+- (ideally) making the form wider.  
+
+Trello board, Day 4
+
+![Screenshot of Trello board on Day 4](images/Day&#32;4/images/Trello_Day4_board.png)
+
+Trello Task list, Day 4
+
+![Screenshot of Trello card task list](images/Day&#32;4/images/Trello_TaskList_Day4.png)
+
+

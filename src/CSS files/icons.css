@@ -1,18 +1,14 @@
-.icons  {
+.icons {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  height: 70%;
-  margin-top: 100px;
+  height: 60%;
+  margin-top: 163px;
 }
 
 .icons > a {
-  font-size:100px;
-  color: #EF14E7;
+  font-size: 100px;
+  color: #ef14e7;
   z-index: 10;
 }
-
-
-
-
