@@ -3,7 +3,7 @@
 }
 
 .page-left .text-content {
-  text-align: center; 
+  text-align: center;
   color: white;
   font-weight: bold;
   font-size: 17px;
@@ -12,3 +12,19 @@
   width: 35%;
   height: 65%;
 }
+
+.page-left .text-content a {
+  color: white;
+}
+
+.work-page-text-content {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 17px;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: 5%;
+}
+

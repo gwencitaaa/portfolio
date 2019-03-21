@@ -6,13 +6,13 @@ The purpose of this website is to function as an online portfolio, displaying bo
 
 *Functionality*
 The website has four main pages:
--Home
--About
--Contact
--Work 
+-Home (default)
+-About, containing more details about me as a person
+-Contact, containing links to twitter and linkedin and a contact form
+-Work, containing a work samples, resume and link to github
 
 Search function
-Search functionality is on all pages for all device types in the top right corner. This position is almost universally recognisable. There is a search bar with an icon and the word "Search", both for accessible design purposes and also best practice in terms of labelling icons with a word. Clicking into the search bar brings up the keyboard on both mobile/tablet.
+While I originally intended to have search functionality, an instructor asked about it and I re-evaluated and decided it isn't a core function of a portfolio website. 
 
 Use of icons
 
@@ -37,6 +37,8 @@ Bottom nav bar design in Figma
 ![Screenshot of nav bar design](images/Day&#32;2/images/Figma_Navbar.png)
 
 Hamburger menu
+
+Update on Day 3: Hamburger menu no longer necessary since search was removed. 
 
 On a mobile view, a hamburger menu sits in place of the two extra pages. The decision to use a hamburger menu instead of two more icons was based on three main reasons. Firstly, I wanted to allow for 'fat fingers and bad eyesight'—in other words, to use the principles of human-centred design for an easy to navigate UI. I also intended for there to be ample space for contact patches, since they vary in size and shape. Finally, I wanted a clean UI, and when I trialled five icons along the bottom, they were too close in distance and the UI looked cluttered as a result. 
 
@@ -287,3 +289,19 @@ Overall, I'm on track except I was hoping to get more HTML code done by now.
 Trello board at end of day 2
 
 ![Screenshot of Trello card](images/Day&#32;2/images/Trello_Day2End.png)
+
+**Day 3 SPRINT**
+
+Trello board at start of day 
+
+![Screenshot of Trello board](images/Day&#32;3/Images/Trello_Board_Day3.png)
+
+Task card at start of day
+
+![Screenshot of task card](images/Day&#32;3/Images/Trello_TaskCard_Day3.png)
+
+*Changes to structure*
+
+I've removed the search functionality (as updated higher in this doc) and also the hamburger menu, since the icons will now fit. 
+
+I'm struggling to position the text with the center icon and also to position text. I've spent a long time looking this up and getting help and it's still not fixed. 

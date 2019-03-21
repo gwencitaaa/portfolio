@@ -5,63 +5,56 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="src/CSS files/index.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
+  integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link rel="stylesheet" href="src/CSS files/index.css">
 </head>
 
 <body>
-  <nav>
-    <ul>
-      <li><strong>Contact</strong></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="work.html">Work</a></li>
-      <li><a href="index.html">Home</a></li>
-    </ul>
-  </nav>
   <div class="container">
-    <h1>Contact</h1>
-  </div>
-  <div class="container">
+      <div class="center-icon">
+          <p>Contact</p><i class="fas fa-home home-icon"></i>
+        </div>
     <div class="page-left">
-      <div class="avatar"></div>
-      <div class="text-content"></div>
-    </div>
-    <div class="page-right">
-      <div class="icons">
-        <div class="icon">
-          <img src="./src/icons/Icon_about.svg" alt="Icon for About page" height="87px" width="100px" />
-          <!-- pos...? -->
-          <div class="icon"><img src="./src/icons/Icon_work.svg" alt="Icon for Work page" height="87px" width="100px" />
-            <!-- pos...? -->
+      <div class="left-content">
+        <div class="avatar">
+          <img src="./src/CSS files/images/Gwenny_photo.jpg" alt="Avatar of this web portfolio owner">
+        </div>
+        <div class="text-content">
+          <h2>MORE ABOUT ME</h2>
+          <p>I'd love to hear from you!
+            Get in touch on my socials here:<br />
+            <a target=_blank href="https://www.linkedin.com/in/gwendolen-warnick/">For Linkedin lovers</a><br />
+            <a target=_blank href="https://twitter.com/gwencitaaa">For tweeple</a><br />
+            Or simply fill out this contact form.</p>
           </div>
-          <div class="icon"><img src="./src/icons/Icon_home.svg" alt="Icon for Home page" height="87px" width="100px" />
-            <!-- pos...? -->
+          <div class="form">
+            <form method="POST" action="https://formspree.io/gwendolen.warnick@gmail.com">
+              <input type="name" name="name" placeholder="Name">
+              <input type="email" name="email" placeholder="Email">
+              <textarea name="message" placeholder="Your Message"></textarea><br />
+              <button type="submit">Submit</button>
+            </form>
           </div>
+        </div>
+      </div>
+      <div class="page-right">
+        <div class="icons">
+          <a href="./work.html">
+            <i class="fas fa-briefcase"></i>
+          </a>
+          <a href="./about.html">
+            <i class="fas fa-info-circle"></i>
+          </a>
+          <a href="./index.html">
+            <i class="fas fa-home home-icon"></i>
+          </a>
         </div>
       </div>
     </div>
   </div>
-  <div>
-    <p>I'd love to hear from you!</p>
-    <p>Get in touch on my socials here:</p>
-    
-    <p>Linkedin lovers: https://www.linkedin.com/in/gwendolen-warnick/</p>
-    
-    <p>For Tweeple: https://twitter.com/gwencitaaa</p>
-    
-    <p>Or simply fill out this contact form. :) <p>
-      
-      <form>
-        Name:<br />
-        <input type="text" name="name"><br />
-        Email address:<br />
-        <input type="email" name="email"><br />
-        Submit:<br />
-        <input type="submit" name="submit">
-      </form>
-      Chatbot?
-    </div>
-  </body>
-  
-  
-  </html>
+</body>
+
+</html>
