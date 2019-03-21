@@ -1,0 +1,14 @@
+.center-icon p {
+  transform: translateY(-50px) rotate(-90deg);
+  font-size: 40px;
+  position: absolute;
+  left: 200px;
+  bottom: 110px;
+}
+
+/* .center-icon p {
+  transform: rotate(-90deg);
+  font-size: 40px;
+  position: absolute;
+  left: -60px;
+} */
