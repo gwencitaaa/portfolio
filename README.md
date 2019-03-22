@@ -374,4 +374,47 @@ Trello Task list, Day 4
 
 ![Screenshot of Trello card task list](images/Day&#32;4/images/Trello_TaskList_Day4.png)
 
+Testing on other browsers and devices
+
+I've tested so far on:
+- Desktop using Safari browser
+- Desktop using Chrome browser
+- Desktop usng Firefox browser
+- Resizing each of these three browers on desktop
+- iPhone 6 on Safari browser
+
+While Safari and Firefox browsers render the font differently, I am leaving it at this point because the design features still remain. 
+
+View on Chrome (desktop)
+
+![Screenshot of webpage on Chrome](images/Day&#32;4/images/Screenshot_Chrome_pageview.png)
+
+Page view on Safari (desktop)
+
+![Screenshot of webpage on Safari](images/Day&#32;4/images/Screenshot_Safari_pageview.png)
+
+Page view on Firefox (desktop)
+
+![Screenshot of webpage on Firefox](images/Day&#32;4/images/Screenshot_Firefox_pageview.png)
+
+Page view on iPhone (Safari)
+
+In iPhone, the text becomes scrollable and the bottom margin changes so that it doesn't overflow onto the bottom nav bar which appears for the icons which are along the right side of the page in desktop/larger screen-sized tablets. 
+
+![Screenshot of webpage on iPhone in Safari](images/Day&#32;4/images/Screenshot_iPhone_pageview.png)
+
+*End of Day 4 Update*
+
+Live chat
+
+I remembered the live chat I used to use when I built a blog for a learning centre, so I thought I'd add it in as it's super simple to use. I changed the colours so it matched my theme and it's now ready. I love it!! It's from tawk.to.
+
+Screenshot showing Tawk.to live chat icon (in top right of all page views across devices)
+
+![Screenshot of page view](images/Day&#32;4/images/Tawk_LiveChat_Icon.png)
+
+Screenshot of live chat window
+
+![Screenshot of live chat window](images/Day&#32;4/images/Tawk_LiveChat.png)
+
 

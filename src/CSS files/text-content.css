@@ -9,8 +9,8 @@
   font-size: 17px;
   justify-content: center;
   align-items: center;
-  width: 55%;
-  height: 65%;
+  width: 35vw;
+  height: 65vh;
 }
 
 .page-left .text-content a {
@@ -22,10 +22,7 @@
   color: white;
   font-weight: bold;
   font-size: 17px;
-  justify-content: center;
   align-items: center;
-  width: 35%;
-  height: 5%;
 }
 
 .text-content p, h2 {
