@@ -2,19 +2,45 @@
 Web portfolio for Coder Academy bootcamp assessment
 
 *Purpose*
+
 The purpose of this website is to function as an online portfolio, displaying both my personality and technical skills/experience. The audience is Coder Academy for assessment, but also the wider tech community and potential employers. 
 
-*Functionality*
-The website has four main pages:
--Home (default)
--About, containing more details about me as a person
--Contact, containing links to twitter and linkedin and a contact form
--Work, containing a work samples, resume and link to github
+*Target audience*
 
-Search function
+I see the target audience as predominantly being two groups:
+
+- Coder Academy instructors who are evaluating it as part of the assessment for the bootcamp
+- potential employers.
+
+While peers are also part of the audience, I wanted to keep potential employers front of mind. 
+
+For this audience of potential employers, I wanted to keep the design minimal and uncluttered, with a fun navigation pattern. I liked the idea of keeping the icons as the main navigation tool and displaying them centrally rather than at the bottom or top (or side) in a more traditional design. 
+
+*Functionality*
+
+The website has four main pages:
+- Home (default)
+- About, containing more details about me as a person
+- Contact, containing links to twitter and linkedin and a contact form
+- Work, containing a work samples, resume and link to github
+
+*Tech stack*
+
+The site is built using HTML and CSS. I already owned a domain name from Namecheap, and Tim helped me do the configuration so I could deploy it using Gitpages. 
+
+Screenshot of A records in Namecheap
+
+![Screenshot of A records in Namecheap](images/Day&#32;4/images/Screenshot_Namecheap_Arecords.png)
+
+Screenshot of matching github page domains
+
+![Screenshot of Github domains](images/Day&#32;4/images/Screenshot_Gitpages_IP_addresses.png)
+
+*Search function*
+
 While I originally intended to have search functionality, an instructor asked about it and I re-evaluated and decided it isn't a core function of a portfolio website. 
 
-Use of icons
+*Use of icons*
 
 Each page is represented by an icon. I designed these icons so the style was consistent with the rest of the site's look and feel. When hovered over, the icon's label pops up. When a page is navigated to, its icon sits in the middle of the page with its label visible. 
 
@@ -28,38 +54,49 @@ Icon design in Figma
 
 ![Screenshot of icon design](images/Day&#32;2/images/Figma_Icons.png)
 
-Bottom navigation on mobile/tablet
+*Font planning*
 
-On the mobile/tablet layout, a bottom navigation pane was chosen during the design process. This is to facilitate one-handed use, meeting the UX criteria of Reachability. It was also a design choice based on current research in UX, specifically on the 'Touch' principle. I read that one-handed use is more common than thought, and that good design should consider functions sitting on the bottom within the 'thumb zone' (left, combined and right). I considered search as being potentially a core function of the app and therefore included it in the bottom nav bar.   
+I looked through Google fonts for a while, and did searches on what fonts were readable and popular for design. 
+
+I love looked for fonts, so I was happy to just find ones I liked and see how they looked. 
+
+I thought Oswald made a bold statement and was also readable. But when I saw it on the page, I didn't like how it looked, so I tried to find a font with more curves. I settled on Rajdhani. 
+
+Oswald font
+
+![Screenshot of Oswald font](images/Day&#32;4/images/Screenshot_FontPlanning.png)
+
+Rajdhani font
+
+![Screenshot of Rajdhani font](images/Day&#32;4/images/Screenshot_FontPlanning_Rajdhani.png)
+
+*Bottom navigation on mobile/tablet*
+
+On the mobile/tablet layout, a bottom navigation pane was chosen during the design process. This is to facilitate one-handed use, meeting the UX criteria of Reachability. It was also a design choice based on current research in UX, specifically on the 'Touch' principle. I read that one-handed use is more common than thought, and that good design should consider functions sitting on the bottom within the 'thumb zone' (left, combined and right). I considered search as being potentially a core function of the app and therefore included it in the bottom nav bar.  
+
+*Update to icons*
+
+To make these more uniform, Aaron recommended Font Awesome. This was great as I could control the colour and size much more easily. I spent time on Day 3 replacing the icons with Font Awesome Icons. 
+
+New icons from Font Awesome
+
+![Screenshot of updated icons](images/Day&#32;4/images/Screenshot_UpdatedIcons.png)
 
 Bottom nav bar design in Figma
 
 ![Screenshot of nav bar design](images/Day&#32;2/images/Figma_Navbar.png)
 
-Hamburger menu
+*Hamburger menu*
 
 Update on Day 3: Hamburger menu no longer necessary since search was removed. 
 
 On a mobile view, a hamburger menu sits in place of the two extra pages. The decision to use a hamburger menu instead of two more icons was based on three main reasons. Firstly, I wanted to allow for 'fat fingers and bad eyesight'—in other words, to use the principles of human-centred design for an easy to navigate UI. I also intended for there to be ample space for contact patches, since they vary in size and shape. Finally, I wanted a clean UI, and when I trialled five icons along the bottom, they were too close in distance and the UI looked cluttered as a result. 
 
+After I removed search, I was able to remove this design feature allowing navigation to be completely in the bottom navigation bar. 
+
 Hamburger menu design 
 
 ![Hamburger design plan](images/Day&#32;2/images/Figma_HamburgerMenu.png)
-
-
-Need to include: 
-Description of your portfolio website, including,
-Purpose
-Functionality / features
-Sitemap
-Screenshots
-Target audience
-Tech stack (e.g. html, css, deployment platform, etc)
-Design documentation including,
-Design process
-Wireframes
-Personal logo (optional)
-Usability considerations
 
 **DAY 1 SPRINT**
 
@@ -312,7 +349,7 @@ Text labels for icons are fixed. I needed to use transform and play a lot with t
 
 **Day 4 SPRINT**
 
-Something has gone super wrong with Git and it's not recognising local. Hopefully I don't lose all my stuff. I wasn't able to commit my changes and it keeps wanting to add all of my files. I tried to add local again since it wasn't showing, but it's still not working. 
+Something has gone super wrong with Git and it's not recognising local. Hopefully I don't lose all my stuff. I wasn't able to commit my changes and it keeps wanting to add all of my files. I tried to add local again since it wasn't showing, but it's still not working. Update: restarted and all good. Phew! 
 
 *Day 3 retro*
 
