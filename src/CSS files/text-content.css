@@ -28,3 +28,7 @@
   height: 5%;
 }
 
+.text-content p, h2 {
+  opacity: 1;
+  margin-bottom: 12px;
+}

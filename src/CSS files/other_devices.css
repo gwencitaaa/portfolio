@@ -1,0 +1,42 @@
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .center-icon {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:90px;
+    color: #EF14E7;
+    z-index: 10;
+  }
+
+  .icons {
+    position: fixed;
+    width: 100vw;
+    left: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    height: 110px;
+    font-size:90px;
+    color: #EF14E7;
+  }
+
+  .icons > a {
+    font-size: 70px;
+    color: #ef14e7;
+  }
+
+  .page-left .text-content {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    height: 65%;
+    overflow: scroll;
+    margin-bottom: 110px; 
+  }
+}

@@ -7,7 +7,7 @@
 }
 
 input[type="name"], [type="email"] {
-  width: 100%;
+  width: 25vw;
   min-height: 45px;
   padding: 10px;
   box-sizing: border-box;
@@ -18,7 +18,7 @@ input[type="name"], [type="email"] {
 }
 
 textarea[name="message"] {
-  width: 100%;
+  width: 25vw;
   min-height: 100px;
   padding: 10px;
   box-sizing: border-box;
@@ -29,13 +29,18 @@ textarea[name="message"] {
   font: black;
 }
 
+button {
+  background: white;
+  font-family: "Rajdhani", sans-serif;
+}
+
 input[type="name"]:focus, input[type="email"]:focus, textarea[name="message"]:focus {
   background-color: #66dba6;
 }
 
 .center-icon p {
   transform: rotate(-90deg);
-  font-size: 40px;
+  font-size: 40px;  
   position: absolute;
   left: -60px;
 }
