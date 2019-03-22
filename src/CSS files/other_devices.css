@@ -44,6 +44,31 @@
   .text-content p, h2 {
     opacity: 1;
   }
+
+  .left-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 80%;
+    align-items: center;
+  }
+
+  .color-box {
+    color: white;
+    text-align: center;
+    justify-content: flex-start;
+    height: 5vh;
+    width: 20vw;
+    background-color: #66DBA6;
+    opacity: 1;
+    font-size: 15px;
+    margin-bottom: 70px;
+  }
+
+.color-box a {
+  font-size: 15px;
+}
+}
 }
 
 

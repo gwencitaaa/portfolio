@@ -202,6 +202,14 @@ This website is a portfolio for my Coder Academy web development bootcamp assess
 
 > Work
 
+Code structure planning
+
+I went through a couple of ways to do this with both Harrison and Aaron, and eventually settled on doing the whole webpage as a grid with two columns in a container class. Within the left half, there are divs for the avatar and text and within the right half, there is a flex box for the icons which act as the navigation tool. 
+
+Screenshot of code structure plan (in Figma)
+
+![Screenshot of Figma design](images/Day&#32;1/Figma_CodeStructure_Overview.png)
+
 **End of day 1 update**
 
 - Copy not finished bc Aaron recommended getting wireframes done earlier to get approval. 
