@@ -15,6 +15,9 @@ input[type="name"], [type="email"] {
   margin-bottom: 10px;
   outline: none;
   font-family: "Rajdhani", sans-serif;
+  color: #010C42;
+  font-style: bold;
+  font-size: 15px;
 }
 
 textarea[name="message"] {
@@ -26,12 +29,17 @@ textarea[name="message"] {
   margin-bottom: 10px;
   outline: none;
   font-family: "Rajdhani", sans-serif;
-  font: black;
+  color: #010C42;
+  font-style: bold;
+  font-size: 15px;
 }
 
 button {
   background: white;
   font-family: "Rajdhani", sans-serif;
+  color: #010C42;
+  font-style: bold;
+  font-size: 15px;
 }
 
 input[type="name"]:focus, input[type="email"]:focus, textarea[name="message"]:focus {

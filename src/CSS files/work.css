@@ -10,8 +10,11 @@
 .color-box {
   color: white;
   text-align: center;
-  height: 100px;
-  width: 333px;
+  justify-content: flex-start;
+  height: 5vh;
+  width: 20vw;
   background-color: #66DBA6;
-  opacity: 0.6;
+  opacity: 1;
+  font-size: 25px;
+  padding: 10px;
 }
