@@ -14,19 +14,22 @@ I see the target audience as predominantly being two groups:
 
 While peers are also part of the audience, I wanted to keep potential employers front of mind. 
 
-For this audience of potential employers, I wanted to keep the design minimal and uncluttered, with a fun navigation pattern. I liked the idea of keeping the icons as the main navigation tool and displaying them centred on one half of the page rather than at the bottom or top (or side) in a more traditional design. 
+For this audience of potential employers, I wanted to keep the design minimal and uncluttered, with a fun navigation pattern. I liked the idea of having oversized icons that represented each page of the website as the main navigation tool and displaying them centred on one half of the page rather than at the bottom or top (or side) in a more traditional design. 
 
 *Functionality*
 
-The website has four main pages:
+The website has four main pages
 - Home (default)
 - About, containing more details about me as a person
-- Contact, containing links to twitter and linkedin and a contact form
-- Work, containing a work samples, resume and link to github
+- Contact, containing links to Twitter and Linkedin and a contact form
+- Work, containing a link to Github and examples of other work demonstrating who I am (writing and music).
+
+
+It also has a live chat widget that appears on every page. 
 
 *Tech stack*
 
-The site is built using HTML and CSS. I already owned a domain name from Namecheap, and Tim helped me do the configuration so I could deploy it using Gitpages. 
+The site is built using HTML and CSS. I already owned a domain name from Namecheap, and my classmate, Tim, helped me do the configuration so I could deploy it using Gitpages. 
 
 Screenshot of A records in Namecheap
 
@@ -38,21 +41,51 @@ Screenshot of matching github page domains
 
 *Search function*
 
-While I originally intended to have search functionality, an instructor asked about it and I re-evaluated and decided it isn't a core function of a portfolio website. 
+While I originally intended to have search functionality, an instructor asked about it and I re-evaluated and decided it isn't a core function of a portfolio website. Therefore, there is no search function in the website. 
 
 *Use of icons*
 
-Each page is represented by an icon. I designed these icons so the style was consistent with the rest of the site's look and feel. When hovered over, the icon's label pops up. When a page is navigated to, its icon sits in the middle of the page with its label visible. 
+Each page is represented by an icon. I designed these icons so the style was consistent with the rest of the site's look and feel. I wanted them to be simple, modern, and solid.
 
-The icons were as follows
+The icons are as follows
 - Home page: house
 - Work page: suitcase
 - Contact page: envelope
 - About page: information symbol in circle
 
-Icon design in Figma
+Early original design of icons in Figma
 
 ![Screenshot of icon design](images/Day&#32;2/images/Figma_Icons.png)
+
+*Update to icons*
+
+To make the icons more uniform, our instructor Aaron recommended Font Awesome. This was great as I could control the colour and size much more easily. I spent time on Day 3 replacing the icons with Font Awesome Icons and sizing/colouring them. 
+
+New icons from Font Awesome
+
+![Screenshot of updated icons](images/Day&#32;4/images/Screenshot_UpdatedIcons.png)
+
+Each icon that is clickable enlarges slightly when it is hovered over to let the user know it can be interacted with. The icon of the page a user is on sits in the middle of the page with its label visible. 
+
+*Icon labels*
+
+While the icon in the centre of the page representing the current page has a visible label, I decided to keep the other icons that were for navigation around the site without labels. The home page invites the user to 'jump around by clicking on the icons' and I think this invitation combined with the oversized nature of the icons means a user will intuitively feel these are for navigation. 'Relative size aids noticeability' (https://www.nngroup.com/articles/icon-usability/) for icons and there is no other visible navigation elsewhere in the pages. I believe this design decision is almost adding in an element of gamification to entice the user to play. 
+
+This ignores the icon usability guidelines around having a label, but I weighed up the decision carefully and also trialled design with labels (code and screenshots below), but didn't like how it cluttered the UI and removed the feeling of delight experimenting. 
+
+Code snippet for labels on icons
+
+![Screenshot of code snippet](images/Day&#32;5/images/IconLabelCodeSnippet.png)
+
+Design with labels on navigation icons (larger font size)
+
+![Screenshot of webpage showing labels on icons](images/Day&#32;5/images/Icons_LargerLabels.png)
+
+Design with labels on navigation icons (smaller font size)
+
+![Screenshot of webpage showing labels on icons](images/Day&#32;5/images/Icons_SmallerLabels.png)
+
+Finally, in my user testing, I checked whether the icons I had chosen were recognisable symbols and they were. This was a test recommended as best practice in the usability guidelines from the Nielsen Norman group. 
 
 *Font planning*
 
@@ -72,31 +105,33 @@ Rajdhani font
 
 *Bottom navigation on mobile/tablet*
 
-On the mobile/tablet layout, a bottom navigation pane was chosen during the design process. This is to facilitate one-handed use, meeting the UX criteria of Reachability. It was also a design choice based on current research in UX, specifically on the 'Touch' principle. I read that one-handed use is more common than thought, and that good design should consider functions sitting on the bottom within the 'thumb zone' (left, combined and right). I considered search as being potentially a core function of the app and therefore included it in the bottom nav bar.  
-
-*Update to icons*
-
-To make these more uniform, Aaron recommended Font Awesome. This was great as I could control the colour and size much more easily. I spent time on Day 3 replacing the icons with Font Awesome Icons and sizing/colouring them. 
-
-New icons from Font Awesome
-
-![Screenshot of updated icons](images/Day&#32;4/images/Screenshot_UpdatedIcons.png)
+On the mobile/tablet layout, a bottom navigation pane was planned during the design process. This was to facilitate one-handed use, meeting the UX criteria of Reachability. It was also a design choice based on current research in UX, specifically on the 'Touch' principle. I read that one-handed use is more common than thought, and that good design should consider functions sitting on the bottom within the 'thumb zone' (left, combined and right). 
 
 Bottom nav bar design in Figma
 
 ![Screenshot of nav bar design](images/Day&#32;2/images/Figma_Navbar.png)
 
+However, after user testing, this design didn't work well. Therefore, I removed the bottom navigation on mobile/tablet and kept the icons on the right hand side of the page, making them smaller in size. The icons are within reach of the thumb (in the 'Natural' and 'Stretch' zones), which was a consideration I had for usability, since around half of users use a phone with one hand. The heatmap below shows these zones in heat maps for design on iPhones. 
+
+Thumb Zone Heat map for iPhones (since 2007)
+
+![Thumb Zone heat map for iPhones](images/Day&#32;5/images/ThumbZones.png)
+
+Source: http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens
+
 *Hamburger menu*
 
-Update on Day 3: Hamburger menu no longer necessary since search was removed. 
+On a mobile view, I originally designed a hamburger menu to sit in place of the two extra pages. The decision to use a hamburger menu instead of two more icons was based on three main reasons. 
 
-On a mobile view, a hamburger menu sits in place of the two extra pages. The decision to use a hamburger menu instead of two more icons was based on three main reasons. Firstly, I wanted to allow for 'fat fingers and bad eyesight'—in other words, to use the principles of human-centred design for an easy to navigate UI. I also intended for there to be ample space for contact patches, since they vary in size and shape. Finally, I wanted a clean UI, and when I trialled five icons along the bottom, they were too close in distance and the UI looked cluttered as a result. 
-
-After I removed search, I was able to remove this design feature allowing navigation to be completely in the bottom navigation bar. 
+Firstly, I wanted to allow for 'fat fingers and bad eyesight'—in other words, to use the principles of human-centred design for an easy to navigate UI. I also intended for there to be ample space for contact patches, since they vary in size and shape. Finally, I wanted a clean UI, and when I trialled five icons along the bottom, they were too close in distance and the UI looked cluttered as a result. 
 
 Hamburger menu design 
 
 ![Hamburger design plan](images/Day&#32;2/images/Figma_HamburgerMenu.png)
+
+Update on Day 3: Hamburger menu removed 
+
+After I removed search, I was able to remove the hamburger menu, allowing navigation to be done using the icons representing each page. This is good from a usability perspective, as it removes a step for the user and keeps the options in the UI visible and therefore easier for users to navigate.
 
 **DAY 1 SPRINT**
 
@@ -197,8 +232,7 @@ My main drive is to leave the world a better place than when I came into it.
 
 This website is a portfolio for my Coder Academy web development bootcamp assessment. The brief was to design then deploy a well-designed and functional portfolio website.
 
-> History of internet (w/graphic)
-
+> History of internet (w/graphic?)
 
 > Work
 
@@ -281,8 +315,6 @@ Screenshot of Trello board, Day 2
 Screenshot of Trello task list, Day 2
 
 ![Screenshot of Trello task list](images/Day&#32;2/images/Trello_Day2_TaskList.png)
-
-
 
 *Code structure*
 
@@ -430,7 +462,7 @@ Screenshot of live chat window
 
 *User testing*
 
-I got my brother and his girlfriend to have a look around the site on their phones. He found it quite awkward to scroll (he has way bigger fingers than I do) and thought the icons at the bottom weren't helpful in this case because it was too close to the scrolling. 
+I got two users to have a look around the site on their phones. One found it quite awkward to scroll as he had larger fingers than I do and thought the icons at the bottom weren't helpful in this case because they were too close to the scrolling. As a result, I removed the bottom navigation.
 
 *Code changes after user testing*
 
@@ -450,10 +482,18 @@ Trello board, end of day 4
 
 **Day 5 SPRINT**
 
+*To do*
+Today, I need to:
+- check what I've done carefully against the rubric
+- fill in gaps
+- get the Work page looking good at any size (the color boxes look weird when reduced in size)
+- finalise design elements
+- write the short responses to the 3 questions. 
+
 *Audio files*
 Today I had headspace to think about how the site is reflecting my personality, as required in the brief. I thought it would be nice to have an audio file on the welcome and about pages and looked into this. 
 
-I did some research and foudn that using 'audio' and 'controls', it's now possible to do this with HTML. So I recorded a couple of audio files using vocaroo.com (screenshot below) and downloaded them, then added them to my source files. 
+I found that using 'audio' and 'controls', it's now possible to add audio files into a webpage with HTML. So I recorded a couple of audio files using vocaroo.com (screenshot below) and downloaded them, then added them to my source files. 
 
 Vocaroo
 
@@ -468,13 +508,6 @@ Home page with audio (full size)
 Home page with audio (reduced screen size)
 
 ![Screenshot of webpage](images/Day&#32;5/images/Screenshot_HomeWithAudio2.png)
-
-*To do*
-Today, I need to:
-- check what I've done carefully against the rubric
-- fill in gaps
-- get the Work page looking good at any size (the color boxes look weird when reduced in size)
-- write the short responses to the 3 questions. 
 
 Work page update
 I removed the boxes and tried doing plain white text, as this looks clean on the other pages. I like it. I also inserted horizontal lines to get more definition between each link and added a small explanation for each one. I like the look much more. 
@@ -547,3 +580,85 @@ https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html
 https://www.websitebuilderexpert.com/designing-websites/pick-best-font-style-for-website/
 
 https://www.fonts.com/content/learning/fontology/level-2/making-type-choices/choosing-display-typefaces-for-the-web
+
+*Updated Sitemap, Day 5*
+
+Since I removed the search function, the sitemap has now changed from the original that was planned and shown in the previous screenshot.
+
+I learned a little more on Sitemap index files and used a free sitemap generator (https://www.xml-sitemaps.com) to generate my site's XML file. I uploaded this file to my root folder. 
+
+Screenshot of XML file for shewriteslikeadream.com
+
+![Screenshot of XML file](images/Day&#32;5/images/Screenshot_SitemapFile.png)
+
+**Short answer Q and A from assignment brief**
+
+1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+
+2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+
+3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+
+*My responses*
+
+Q1: Describe key events in the development of the internet from the 1980s to today
+
+A: A network of computers connected using phone lines—ARPANET—existed in the 1980s. But this network could not communicate with other networks (Featherly 2019).
+
+To do this, a way for 'packets' of information to move between computers called the Transfer Control Protocol/Internet Protocol (TCP/IP) was developed (Cert & Khan 1974), forming the foundation of the internet.
+
+Diagram of how TCP/IP works (Anonymous n.d.)
+
+![Diagram of TCP/IP](images/Day&#32;5/images/TCP:IP.jpg)
+
+The decentralised Domain Name System (DNS) came next (Mockapetris 1983), allowing fast translation of IP addresses. 
+
+Tim Berners-Lee conceived and developed the World Wide Web with HTML, HTTP and URLs (Berners-Lee 1989). 
+
+Once internet standards were agreed upon, use of the internet increased rapidly. 
+
+A range of smart devices were developed, putting the internet in people's pockets.
+
+Mobile phone development over time
+
+![Images of mobile phones over time](images/Day&#32;5/images/Mobile-technology-evolution.jpg)
+Source: http://www.wolfgroup.co.uk/wp-content/uploads/2014/11/Mobile-technology-evolution.jpg
+
+Social media exploded in popularity from 2003 onward.
+
+Timeline of social media 
+
+![Infographic on the history of the internet from Behance](images/Day&#32;5/images/Internet_History_Infographic.jpg)
+
+Today, more than 50% of adults around the world use it (see graphic below).
+
+![Social media use around the world graphic](images/Day&#32;5/images/Social&#32;media&#32;use.png) 
+
+Smart phones and faster internet speeds have meant constantly growing demand for data (see Table 1).
+
+Table 1. Growth in data use over time
+![Mobile phone data use growth](images/Day&#32;5/images/DataGrowth.png)
+
+Today, the connectivity of the early internet is being extended further with the Internet of Things, AI and big data.
+
+![Industry 4.0 graphic](images/Day&#32;5/images/Industry4.0.png)
+
+Word count: 155 words excluding citations
+
+*References*
+
+Berners-Lee, T 1989, 'Information Management: A Proposal', *CERN*, [project proposa], viewed 24 March 2019, <https://www.w3.org/History/1989/proposal.html>.
+
+Cert, VG & Kahn, RE 1974, 'A Protocol for Packet Network Intercommunication, *IEEE Transactions on Communications*, vol 22, no. 5, pp. 637-648.
+
+Featherly, K 2019, 'Arpanet', *Encyclopaedia Brittanica*, viewed 24 March 2019, <https://www.britannica.com/topic/ARPANET>.
+
+Mockapetris, P 1983, 'Domain Names - Concepts and Facilities', *Network Working Group* [Request for Comments document #882], viewed 24 March 2019, <https://tools.ietf.org/pdf/rfc882.pdf>.
+
+Q2: Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers 
+
+A:
+
+Q3: Reflect on one aspect of the development of internet technologies and how it has contributed to the world today
+
+A:
