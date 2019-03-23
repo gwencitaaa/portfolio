@@ -7,17 +7,11 @@
   right: 0; 
 }
 
-.color-box {
+.work-examples a {
   color: white;
-  text-align: center;
-  height: 5vh;
-  width: 20vw;
-  background-color: #66DBA6;
-  opacity: 1;
-  font-size: 25px;
-  padding: 10px;
 }
 
-.color-box a {
-  color: white;
+hr {
+  margin: 10px;
+  width: 35vw;
 }

@@ -15,7 +15,7 @@ input[type="name"], [type="email"] {
   font-family: "Rajdhani", sans-serif;
   color: #010C42;
   font-style: bold;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 textarea[name="message"] {
@@ -29,7 +29,7 @@ textarea[name="message"] {
   font-family: "Rajdhani", sans-serif;
   color: #010C42;
   font-style: bold;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 button {
