@@ -11,6 +11,7 @@
   align-items: center;
   width: 35vw;
   height: 65vh;
+  display: flex;
 }
 
 .page-left .text-content a {
