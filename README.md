@@ -14,7 +14,7 @@ I see the target audience as predominantly being two groups:
 
 While peers are also part of the audience, I wanted to keep potential employers front of mind. 
 
-For this audience of potential employers, I wanted to keep the design minimal and uncluttered, with a fun navigation pattern. I liked the idea of keeping the icons as the main navigation tool and displaying them centrally rather than at the bottom or top (or side) in a more traditional design. 
+For this audience of potential employers, I wanted to keep the design minimal and uncluttered, with a fun navigation pattern. I liked the idea of keeping the icons as the main navigation tool and displaying them centred on one half of the page rather than at the bottom or top (or side) in a more traditional design. 
 
 *Functionality*
 
@@ -58,9 +58,9 @@ Icon design in Figma
 
 I looked through Google fonts for a while, and did searches on what fonts were readable and popular for design. 
 
-I love looked for fonts, so I was happy to just find ones I liked and see how they looked. 
+I love looking at fonts, so I was happy to just find ones I liked and see how they looked. 
 
-I thought Oswald made a bold statement and was also readable. But when I saw it on the page, I didn't like how it looked, so I tried to find a font with more curves. I settled on Rajdhani. 
+I thought Oswald made a bold statement and was also readable. But when I saw it on the page, I didn't like how it looked, so I tried to find a font with more curves. I settled on Rajdhani. It has a modern, stylised feel but is still readable and clean.
 
 Oswald font
 
@@ -76,7 +76,7 @@ On the mobile/tablet layout, a bottom navigation pane was chosen during the desi
 
 *Update to icons*
 
-To make these more uniform, Aaron recommended Font Awesome. This was great as I could control the colour and size much more easily. I spent time on Day 3 replacing the icons with Font Awesome Icons. 
+To make these more uniform, Aaron recommended Font Awesome. This was great as I could control the colour and size much more easily. I spent time on Day 3 replacing the icons with Font Awesome Icons and sizing/colouring them. 
 
 New icons from Font Awesome
 
@@ -111,7 +111,7 @@ My aim today is to
 - add screenshots into README
 - if time, bring forward some of tomorrow's tasks e.g. spike.
 
-**Project management**
+*Project management*
 
 *Github*
 
@@ -153,7 +153,7 @@ Screenshot 3: Day 1 task list
 ![Screenshot of Trello task list](images/Day&#32;1/Trello_Day1_TaskList.png)
 
 
-**Portfolio requirements**
+*Portfolio requirements*
 
 Notes from Leah when going through rubric: 
 - try a spike (e.g. 2 hours) early on to consider whether technically the design is appropriate given the timeframe and assessment parameters
@@ -164,7 +164,7 @@ Notes from Leah when going through rubric:
 - Could try Hemgingway site
 - RE tables, use tables in readme (Leah to clarify)
   
-**Draft copy**
+*Draft copy*
 
 > Overall vibe/tone
 
@@ -210,7 +210,7 @@ Screenshot of code structure plan (in Figma)
 
 ![Screenshot of Figma design](images/Day&#32;1/Figma_CodeStructure_Overview.png)
 
-**End of day 1 update**
+*End of day 1 update*
 
 - Copy not finished bc Aaron recommended getting wireframes done earlier to get approval. 
 - Got approval for design after showing home screens and 'About' screens in Figma. 
@@ -256,7 +256,7 @@ Updated About screen designs (post-approval)
 
 ![Screenshot of About screens design 2](images/Day&#32;1/AboutScreen_Design2.png)
 
-**Day 1 retro**
+*Day 1 retro*
 
 I did a mini-retrospective on Day 1. I need to stick to my plan so I'm not stressing about time. I've been worrying that my brother is coming down as a surprise for three days and I won't have time, but I stepped out the project management stages and it will be okay if I trust the process. 
 
@@ -335,7 +335,7 @@ Trello board at end of day 2
 
 ![Screenshot of Trello card](images/Day&#32;2/images/Trello_Day2End.png)
 
-**Day 3 SPRINT**
+**DAY 3 SPRINT**
 
 Trello board at start of day 
 
@@ -355,7 +355,7 @@ I'm struggling to position the text with the center icon and also to position te
 
 Text labels for icons are fixed. I needed to use transform and play a lot with the numbers. I'm getting used to using inspect but it's not easy to transfer across to code since it resizes the screen. 
 
-**Day 4 SPRINT**
+**DAY 4 SPRINT**
 
 Something has gone super wrong with Git and it's not recognising local. Hopefully I don't lose all my stuff. I wasn't able to commit my changes and it keeps wanting to add all of my files. I tried to add local again since it wasn't showing, but it's still not working. Update: restarted and all good. Phew! 
 
@@ -461,5 +461,89 @@ Vocaroo
 
 I put a class on the audio control so I could change the size and played around on the different browsers and my two devices (MacBook and iPhone) until the size fit well on the page. I also added a bottom margin so it wasn't squashed up against the text under it. 
 
+Home page with audio (full size)
 
+![Screenshot of webpage](images/Day&#32;5/images/Screenshot_HomeWithAudio.png)
 
+Home page with audio (reduced screen size)
+
+![Screenshot of webpage](images/Day&#32;5/images/Screenshot_HomeWithAudio2.png)
+
+*To do*
+Today, I need to:
+- check what I've done carefully against the rubric
+- fill in gaps
+- get the Work page looking good at any size (the color boxes look weird when reduced in size)
+- write the short responses to the 3 questions. 
+
+Work page update
+I removed the boxes and tried doing plain white text, as this looks clean on the other pages. I like it. I also inserted horizontal lines to get more definition between each link and added a small explanation for each one. I like the look much more. 
+
+Work page with white text instead of colour boxes
+
+![Screenshot of work page on website](images/Day&#32;5/images/WorkPage_NoColourBoxes.png)
+
+*Accessibility testing*
+
+I wanted to test for accessibility so I tried a couple of online tests—Web Accessibility by Level Access (www.webaccessibility.com) and WAVE, Web Accessibility Evaluation Tool (wave.webaim.org). I really liked the WAVE tool, because it had clear explanations as pop ups on the layout of the site. 
+
+There were a couple of changes I could make immediately, which I did. I didn't change the icons by adding text as both tools recommended because I need to look into that more, but I will do this in future. 
+
+Changes made for accessibility
+- added a page title for each page
+- added an h1 to each page
+- added an alt tag for the audio files
+
+Screenshot of WAVE tool analysis
+
+![Screenshot of accessibility test of webpage using wave.webaim.org](images/Day&#32;5/images/WAVE_AccessibilityTest.png)
+
+Screenshot of Web Accessibility analysis
+
+![Web Accessibility test screenshot](images/Day&#32;5/images/WebAccessibilityTest.png)
+
+Color blindness testing
+
+To check that the site had enough contrast visually for people with colour blindness. After doing some research on what I could use, I installed a chrome extension, RGBlind, which simulates two common types of red/green colour blindness
+- Protanopia ("red blind")
+- Deuteranopia ("green-blind").
+
+Screenshot of webpage viewed with Protanopia simulation
+
+![Screenshot of webpage viewed with Protanopia simulation](images/Day&#32;5/images/RGBlind_ProtanopiaSimulation.png)
+
+Screenshot of webpage viewed with Deuteranopia simulation
+
+![Screenshot of webpage viewed with Deuteranopia simulation](images/Day&#32;5/images/RGBlind_DeuteranopiaSimulation.png)
+
+I double checked this result on another site, https://www.toptal.com/designers/colorfilter/, to confirm the simulation was the same. At this site I was also able to see what two more types of color blindness would see. The two other checks simulated
+- Tritanopia (blue/yellow colour blindness)
+- Achromatopsia/Greyscale (partial or total absence of colour vision).
+
+Screenshot of webpage viewed with Tritanopia
+
+![Screenshot of webpage viewed with Tritanopia](images/Day&#32;5/images/Toptal_TritanopiaSimulation.png)
+
+Screenshot of webpage viewed with Achromatopsia
+
+![Screenshot of webpage viewed with Achromatopsia](images/Day&#32;5/images/Toptal_GreyscaleSimulation.png)
+
+The design elements were all visible in these different simulations, so I made no changes to the design based on colour blindness testing.
+
+*Typography*
+
+I did some research on what font size was best practice. While some sources said 16px was appropriate, others suggested 18px was better if there was a chunk of text. I was on 17px, so changed it to 18px and was happy with how it looked. I think that's better than 16px for people that might struggle with their eyesight. 
+
+For forms, there is apparently an effect if the input text is smaller than 16px where iOS browsers will zoom in on the left of the text input, forcing a user to zoom out. While mine resizes and looked okay on phone, it did seem to obscure the placeholder text, so I changed the font size of the form inputs to 16px. 
+
+My line height was already 1.5rem, which was best practice, so I didn't change that. 
+
+Sources:
+
+https://howtogetonline.com/web-typography-best-practices.php
+
+https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html
+
+https://www.websitebuilderexpert.com/designing-websites/pick-best-font-style-for-website/
+
+https://www.fonts.com/content/learning/fontology/level-2/making-type-choices/choosing-display-typefaces-for-the-web
