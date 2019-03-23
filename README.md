@@ -413,7 +413,10 @@ In iPhone, the text becomes scrollable and the bottom margin changes so that it 
 
 *End of Day 4 Update*
 
-Live chat
+*Hover*
+I successfully added in a small effect for when icons are hovered over for navigation—they enlarge slightly upon hover and go back to their normal size when the mouse moves away. 
+
+*Live chat*
 
 I remembered the live chat I used to use when I built a blog for a learning centre, so I thought I'd add it in as it's super simple to use. I changed the colours so it matched my theme and it's now ready. I love it!! It's from tawk.to.
 
@@ -424,5 +427,39 @@ Screenshot showing Tawk.to live chat icon (in top right of all page views across
 Screenshot of live chat window
 
 ![Screenshot of live chat window](images/Day&#32;4/images/Tawk_LiveChat.png)
+
+*User testing*
+
+I got my brother and his girlfriend to have a look around the site on their phones. He found it quite awkward to scroll (he has way bigger fingers than I do) and thought the icons at the bottom weren't helpful in this case because it was too close to the scrolling. 
+
+*Code changes after user testing*
+
+When the screen size reduces (around tablet size but also if someone shrinks their browser on desktop), the icons on the right hand side of the page now stay there, but reduce in size. 
+
+I was then able to reduce the bottom margin on the left, so more text fits into the page when the screen size reduces. This looks better and means less scrolling. 
+
+*Day 4 retro*
+
+I am really happy with the progress. I finally felt good about it today for the first time. 
+
+![Screenshot of Trello card](images/Day&#32;4/images/Trello_Retro_Day4.png)
+
+Trello board, end of day 4
+
+![Screenshot of Trello board](images/Day&#32;4/images/TrelloBoard_EndOfDay4.png)
+
+**Day 5 SPRINT**
+
+*Audio files*
+Today I had headspace to think about how the site is reflecting my personality, as required in the brief. I thought it would be nice to have an audio file on the welcome and about pages and looked into this. 
+
+I did some research and foudn that using 'audio' and 'controls', it's now possible to do this with HTML. So I recorded a couple of audio files using vocaroo.com (screenshot below) and downloaded them, then added them to my source files. 
+
+Vocaroo
+
+![Screenshot of vocaroo.com](images/Day&#32;5/images/Vocaroo.png)
+
+I put a class on the audio control so I could change the size and played around on the different browsers and my two devices (MacBook and iPhone) until the size fit well on the page. I also added a bottom margin so it wasn't squashed up against the text under it. 
+
 
 
