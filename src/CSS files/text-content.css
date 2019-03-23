@@ -11,11 +11,12 @@
   align-items: center;
   width: 35vw;
   height: 65vh;
-  display: flex;
+  overflow: scroll;
 }
 
 .page-left .text-content a {
   color: white;
+  overflow: scroll;
 }
 
 .work-page-text-content {
@@ -24,6 +25,7 @@
   font-weight: bold;
   font-size: 17px;
   align-items: center;
+  overflow: scroll;
 }
 
 .text-content p, h2 {
