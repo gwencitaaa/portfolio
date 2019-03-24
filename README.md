@@ -613,7 +613,9 @@ I was unable to solve the white bit, but I cleaned up my code of a couple of ext
 
 *Experimenting*
 
-I had a go at creating ASCII art using https://art.pixlab.io/ and looked into creating an easter egg. I thought it would be fun to do if I could. I couldn't get the ASCII art to look good or work
+I had a go at creating ASCII art using https://art.pixlab.io/ and looked into creating an easter egg. I thought it would be fun to do if I could, so I tried using a couple of different photos of my cat. I couldn't get the ASCII art to look good or work as an easter egg quickly so I dropped it but enjoyed the experiment.  
+
+![Screenshot of ASCII art experiementation](images/Day&#32;6/images/Screenshot_ASCIIExperiment.png)
 
 **Short answer Q and A from assignment brief**
 
@@ -696,7 +698,7 @@ The aspect of internet technologies' development that I would like to focus on i
 
 One serious issue facing society is the lack of gender equality. This limits the development of technology and society by excluding females or non-binary people from positions of power and authority where decisions are made. Technology can disrupt this situation. 
 
-For example, women in 100 out of 173 countries are limited in their opportunities to work (The World Bank 2019). But access to the internet has facilitated education and increased employment opportunities for such women. Likewise, E-commerce platforms and online financial support have allowed these women to run online businesses where they would not otherwise had been able to. 
+For example, women in 100 out of 173 countries are limited in their opportunities to work (The World Bank 2019). But access to the internet has facilitated education and increased employment opportunities for such women. Likewise, E-commerce platforms and online financial support have allowed these women to run online businesses where they would not otherwise had been able to (Bendall 2018). 
 
 The impact of improving gender equality in the workforce is estimated to be an increase to the global GDP by $28 trillion (Council on Foreign Relations 2019).
 
@@ -704,6 +706,41 @@ The impact of improving gender equality in the workforce is estimated to be an i
 
 *References*
 
-Council on Foreign Relations (CFR) 2019, 'Growing Economies Through Gender Parity', *Women and Foreign Policy Program*, [report], viewed 24 March 2019, <https://www.cfr.org/interactive/womens-participation-in-global-economy/>.
+Bendall, F 2018, *"Glimmers of hope": Five incredible global initiatives to benefit female entrepreneurs.* Smart Company, viewed 25 March 2019, https://www.smartcompany.com.au/finance/funding/global-initiatives-benefit-female-entrepreneurs/.
 
-The World Bank 2019, 'Women, Business and the Law 2019: A Decade of Reform', *The World Bank*, [report], viewed 24 March 2019, <http://wbl.worldbank.org/#>.
+Council on Foreign Relations (CFR) 2019, 'Growing Economies Through Gender Parity', *Women and Foreign Policy Program*, [report], viewed 24 March 2019, https://www.cfr.org/interactive/womens-participation-in-global-economy/.
+
+The World Bank 2019, 'Women, Business and the Law 2019: A Decade of Reform', *The World Bank*, [report], viewed 24 March 2019, http://wbl.worldbank.org/#.
+
+**End of project**
+
+I've completed all coding files and updated the README. All Trello cards are in 'Done'. 
+
+![Trello board screenshot](images/Day&#32;6/images/Trello_Day6End.png)
+
+*Presentation*
+
+I created the same background effect for my presentation to keep it branded uniformly with the website and completed slides to talk through the design and build process. 
+
+![Screenshot of presentation slides](images/Day&#32;6/images/PresentationSlideDeck.png)
+
+*Final website look*
+
+The web pages in their project submission state look as follows:
+
+Home page
+
+![Screenshot of Home page at end of project](images/Day&#32;6/images/Final_HomePage.png)
+
+About page
+
+![Screenshot of About page at end of project](images/Day&#32;6/images/Final_AboutPage.png)
+
+Contact page
+
+![Screenshot of Contact page at end of project](images/Day&#32;6/images/Final_ContactPage.png)
+
+Work page
+
+![Screenshot of Work page at end of project](images/Day&#32;6/images/Final_WorkPage.png)
+
