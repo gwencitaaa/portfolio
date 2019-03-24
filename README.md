@@ -1,6 +1,10 @@
 # portfolio
 Web portfolio for Coder Academy bootcamp assessment
 
+Link to Github repository: https://github.com/gwencitaaa/portfolio
+Link to Trello board used for project management: https://trello.com/b/xgYfmk1g/ca-portfolio-project
+Link to Figma used for this project: https://www.figma.com/file/X0WffcvqB6vdxoMvjykclPE6/Portfolio-Moodboard?node-id=0%3A1
+
 *Purpose*
 
 The purpose of this website is to function as an online portfolio, displaying both my personality and technical skills/experience. The audience is Coder Academy for assessment, but also the wider tech community and potential employers. 
@@ -590,6 +594,26 @@ I learned a little more on Sitemap index files and used a free sitemap generator
 Screenshot of XML file for shewriteslikeadream.com
 
 ![Screenshot of XML file](images/Day&#32;5/images/Screenshot_SitemapFile.png)
+
+**DAY 6 SPRINT**
+
+*HTML validation*
+
+I tried validating my code using an online checker. I wanted to anyway, but I also still can't resolve the bottom section on the webpage outside of the html container appearing as white space and I hoped this might help, as looking for solutions elsewhere didn't. One of the suggestions I read was helpful—to put red borders around everything in CSS.
+
+Screenshot of debugging with red borders
+
+![Screenshot of debugging a webpage using red CSS borders](images/Day&#32;6/images/DebuggingRedBorders.png)
+
+Screenshot of online code validation analysis
+
+![Screenshot of online HTML validation](images/Day&#32;6/images/HTMLValidation.png)
+
+I was unable to solve the white bit, but I cleaned up my code of a couple of extra tags and removed the audio alt tag as suggested.
+
+*Experimenting*
+
+I had a go at creating ASCII art using https://art.pixlab.io/ and looked into creating an easter egg. I thought it would be fun to do if I could. I couldn't get the ASCII art to look good or work
 
 **Short answer Q and A from assignment brief**
 
