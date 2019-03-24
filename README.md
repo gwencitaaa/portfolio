@@ -593,38 +593,27 @@ Screenshot of XML file for shewriteslikeadream.com
 
 **Short answer Q and A from assignment brief**
 
-1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+*Question 1*
 
-2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+Describe key events in the development of the internet from the 1980s to today
 
-3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+*My answer*
 
-*My responses*
-
-Q1: Describe key events in the development of the internet from the 1980s to today
-
-A: A network of computers connected using phone lines—ARPANET—existed in the 1980s. But this network could not communicate with other networks (Featherly 2019).
-
-To do this, a way for 'packets' of information to move between computers called the Transfer Control Protocol/Internet Protocol (TCP/IP) was developed (Cert & Khan 1974), forming the foundation of the internet.
+A network of computers connected using phone lines—ARPANET—existed in the 1980s. But this network could not communicate with others (Featherly 2019). Thus, a way for 'packets' of information to move between computers called the Transfer Control Protocol/Internet Protocol (TCP/IP) was developed (Cert & Khan 1974), which has formed the foundation of the internet since 1983.
 
 Diagram of how TCP/IP works (Anonymous n.d.)
 
 ![Diagram of TCP/IP](images/Day&#32;5/images/TCP:IP.jpg)
 
-The decentralised Domain Name System (DNS) came next (Mockapetris 1983), allowing fast translation of IP addresses. 
+The decentralised Domain Name System (DNS) came next (Mockapetris 1983), allowing fast translation of IP addresses. A short time later, Tim Berners-Lee conceived and developed the World Wide Web, HTML, HTTP and URLs (Berners-Lee 1989). 
 
-Tim Berners-Lee conceived and developed the World Wide Web with HTML, HTTP and URLs (Berners-Lee 1989). 
-
-Once internet standards were agreed upon, use of the internet increased rapidly. 
-
-A range of smart devices were developed, putting the internet in people's pockets.
+Mobile phones evolved into smartphones, putting the internet in people's pockets.
 
 Mobile phone development over time
 
-![Images of mobile phones over time](images/Day&#32;5/images/Mobile-technology-evolution.jpg)
-Source: http://www.wolfgroup.co.uk/wp-content/uploads/2014/11/Mobile-technology-evolution.jpg
+![Images of mobile phones over time](images/Day&#32;5/images/MobilePhone.jpg)
 
-Social media exploded in popularity from 2003 onward.
+Social media grew in popularity from 2003 onward.
 
 Timeline of social media 
 
@@ -634,16 +623,16 @@ Today, more than 50% of adults around the world use it (see graphic below).
 
 ![Social media use around the world graphic](images/Day&#32;5/images/Social&#32;media&#32;use.png) 
 
-Smart phones and faster internet speeds have meant constantly growing demand for data (see Table 1).
+Faster internet speeds have meant constantly growing demand for data (see Table 1).
 
 Table 1. Growth in data use over time
 ![Mobile phone data use growth](images/Day&#32;5/images/DataGrowth.png)
 
-Today, the connectivity of the early internet is being extended further with the Internet of Things, AI and big data.
+Today, the connectivity of the early internet is being extended further with the Internet of Things, AI and big data. This period is known as Industry 4.0.
 
 ![Industry 4.0 graphic](images/Day&#32;5/images/Industry4.0.png)
 
-Word count: 155 words excluding citations
+    Word count: 150 words excluding citations
 
 *References*
 
@@ -655,10 +644,19 @@ Featherly, K 2019, 'Arpanet', *Encyclopaedia Brittanica*, viewed 24 March 2019, 
 
 Mockapetris, P 1983, 'Domain Names - Concepts and Facilities', *Network Working Group* [Request for Comments document #882], viewed 24 March 2019, <https://tools.ietf.org/pdf/rfc882.pdf>.
 
-Q2: Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers 
+*Question 2*
 
-A:
+Define and describe the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers 
 
-Q3: Reflect on one aspect of the development of internet technologies and how it has contributed to the world today
+*My answer*
 
-A:
+
+    Word count: 
+
+*Question 3*
+
+Reflect on one aspect of the development of internet technologies and how it has contributed to the world today
+
+*My Answer*
+
+    Word count: 
