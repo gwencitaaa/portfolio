@@ -674,8 +674,17 @@ Define and describe the relationship between fundamental aspects of the internet
 
 *My answer*
 
+Let's take you accessing your email as an example of how the internet works. 
 
-    Word count: 
+You open up a browser such as Chrome, and type in your email’s domain name, e.g. www.gmail.com. The web browser then needs to find gmail’s IP address.
+
+The IP address could be in your computer's cache already, but if it isn't, the web browser will request that information from DNS servers. 
+
+Once that’s done, your computer can request to see the webpage from the web server. The web server receives your request and responds—hopefully by sending you the page you want. Otherwise, it will send you an error message. 
+
+Finally, your browser will render the page as it should look to humans, after compiling all of the packets of information that were broken up in order to be sent to you via IP and safely identified by TCP. And there’s your email! 
+
+    Word count: 149 words
 
 *Question 3*
 
@@ -683,4 +692,18 @@ Reflect on one aspect of the development of internet technologies and how it has
 
 *My Answer*
 
-    Word count: 
+The aspect of internet technologies' development that I would like to focus on is internet technologies' capacity to affect positive societal change.
+
+One serious issue facing society is the lack of gender equality. This limits the development of technology and society by excluding females or non-binary people from positions of power and authority where decisions are made. Technology can disrupt this situation. 
+
+For example, women in 100 out of 173 countries are limited in their opportunities to work (The World Bank 2019). But access to the internet can facilitate education and increase employment opportunities for such women. Likewise, E-commerce platforms and online financial support can allow these women to run online businesses where they would not otherwise had been able to. 
+
+The impact of improving gender equality in the workforce is estimated to be an increase to the global GDP by $28 trillion (Council on Foreign Relations 2019).
+
+    Word count: 148 words
+
+*References*
+
+Council on Foreign Relations (CFR) 2019, 'Growing Economies Through Gender Parity', *Women and Foreign Policy Program*, [report], viewed 24 March 2019, <https://www.cfr.org/interactive/womens-participation-in-global-economy/>.
+
+The World Bank 2019, 'Women, Business and the Law 2019: A Decade of Reform', *The World Bank*, [report], viewed 24 March 2019, <http://wbl.worldbank.org/#>.
