@@ -696,7 +696,7 @@ The aspect of internet technologies' development that I would like to focus on i
 
 One serious issue facing society is the lack of gender equality. This limits the development of technology and society by excluding females or non-binary people from positions of power and authority where decisions are made. Technology can disrupt this situation. 
 
-For example, women in 100 out of 173 countries are limited in their opportunities to work (The World Bank 2019). But access to the internet can facilitate education and increase employment opportunities for such women. Likewise, E-commerce platforms and online financial support can allow these women to run online businesses where they would not otherwise had been able to. 
+For example, women in 100 out of 173 countries are limited in their opportunities to work (The World Bank 2019). But access to the internet has facilitated education and increased employment opportunities for such women. Likewise, E-commerce platforms and online financial support have allowed these women to run online businesses where they would not otherwise had been able to. 
 
 The impact of improving gender equality in the workforce is estimated to be an increase to the global GDP by $28 trillion (Council on Foreign Relations 2019).
 
